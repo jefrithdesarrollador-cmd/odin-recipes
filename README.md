@@ -1,1 +1,3 @@
-# odin-recipes
+# Odin Recipes
+
+Proyecto práctico del módulo *Foundations* de **The Odin Project** diseñado para ejercitar las bases fundamentales de HTML semántico. Se trata de un sitio web estático simple, compuesto por una página principal y distintas recetas vinculadas mediante enlaces relativos, desarrollado sin el uso de CSS para priorizar la correcta estructuración de contenidos, la jerarquía de encabezados, la maquetación de listas e imágenes, y el dominio del flujo de navegación interno.
